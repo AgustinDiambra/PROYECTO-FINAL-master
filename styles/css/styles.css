@@ -33,4 +33,13 @@ body {
   padding: 30px;
 }
 
+.formulario {
+  padding: 30px;
+}
+
+.nav-item .here {
+  color: blueviolet;
+  border: black solid;
+}
+
 /*# sourceMappingURL=styles.css.map */
